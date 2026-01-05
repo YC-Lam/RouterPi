@@ -1,0 +1,111 @@
+(footprint "Amphenol_10164227-1001A1RLF_placeholder"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "03329d37-ec65-488e-b016-bdbe65b73844")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Amphenol_10164227-1001A1RLF_placeholder"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6804541d-8445-4f32-a222-0140adf33aca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "38a33fbe-cffb-45e2-a211-4a4b173bcf8b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "743e6768-b906-463b-90c2-8acf4862aa39")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr allow_missing_courtyard)
+	(fp_line
+		(start -1.85 -11.4)
+		(end 1.85 -11.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8cb6ab9b-17c9-4b84-aea4-db7b92821eed")
+	)
+	(fp_line
+		(start -1.85 11.4)
+		(end -1.85 -11.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a0968a83-6654-43d2-aec2-e853ff991f0c")
+	)
+	(fp_line
+		(start 1.85 -11.4)
+		(end 1.85 11.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8dfbb8e1-7455-472b-a001-1cb8b5cc7853")
+	)
+	(fp_line
+		(start 1.85 11.4)
+		(end -1.85 11.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "9aab5fd4-9a46-46c3-ae5a-dd2b8b2db8c6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "85430686-9c17-4de0-bfd2-9d47de761722")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

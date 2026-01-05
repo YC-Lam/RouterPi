@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CM5IO")(type "KiCad")(uri "${KIPRJMOD}/CM5IO.pretty")(options "")(descr ""))
+  (lib (name "RouterPi")(type "KiCad")(uri "${KIPRJMOD}/RouterPi.pretty")(options "")(descr ""))
+)
