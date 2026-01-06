@@ -11,13 +11,12 @@ Features:
 - SD card slot for compute module lite
 - 12-24v input voltage
 
+![3D render](./img/3DRender.png)
+
+![PCB layout](./img/pcb.png)
+
 # Design constraints
 - minimal track width: 0.127 mm
 - minimal clearance: 0.125 mm
 - minimal via hole diameter: 0.3 mm
 - minimal via ring diameter: 0.45 mm
-
-
-![3D render](./img/3DRender.png)
-
-![PCB layout](./img/pcb.png)
